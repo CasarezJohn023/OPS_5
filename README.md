@@ -22,32 +22,13 @@ By the end of today, students will:
 
 | I want to... | Go here |
 |---|---|
-| Understand the parts and the analog/sound theory | [`Docs/01-parts-and-theory.md`](Docs/01-parts-and-theory.md) |
-| Understand the Arduino code (`analogRead`, `map`, `tone`) | [`Docs/02-coding-basics.md`](Docs/02-coding-basics.md) |
-| Actually wire it up and write the program | [`Docs/03-build-the-circuit.md`](Docs/03-build-the-circuit.md) |
-| Try the harder version or add enhancements | [`Docs/04-going-further.md`](Docs/04-going-further.md) |
-| Fix something that isn't working | [`Docs/troubleshooting.md`](Docs/troubleshooting.md) |
+| Understand the parts and the analog/sound theory | [`01-parts-and-theory.md`](01-parts-and-theory.md) |
+| Understand the Arduino code (`analogRead`, `map`, `tone`) | [`02-coding-basics.md`](02-coding-basics.md) |
+| Actually wire it up and write the program | [`03-build-the-circuit.md`](03-build-the-circuit.md) |
+| Try the harder version or add enhancements | [`04-going-further.md`](04-going-further.md) |
+| Fix something that isn't working | [`troubleshooting.md`](troubleshooting.md) |
 
-You do not have to read all of this front to back. If you are comfortable with the basics already, jump straight to [building](Docs/03-build-the-circuit.md).
-
-## Repo layout
-
-```
-OPS_5/
-├── README.md                          ← you are here
-├── Docs/
-│   ├── 01-parts-and-theory.md         analog vs. digital, pot, buzzer, button
-│   ├── 02-coding-basics.md            analogRead, map, tone, Serial
-│   ├── 03-build-the-circuit.md        step-by-step wiring + TODO walkthrough
-│   ├── 04-going-further.md            challenges and enhancements
-│   └── troubleshooting.md             common problems and fixes
-├── starter_code/
-│   └── OPS5_pitch_controller_starter/
-│       └── OPS5_pitch_controller_starter.ino
-└── solution_code/
-    └── OPS5_pitch_controller_solution/
-        └── OPS5_pitch_controller_solution.ino
-```
+You do not have to read all of this front to back. If you are comfortable with the basics already, jump straight to [building](03-build-the-circuit.md).
 
 ## Parts list
 
