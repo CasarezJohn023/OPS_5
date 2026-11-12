@@ -1,4 +1,4 @@
-# OPS 5: Pitch Controller
+# OPS 5: Pitch Perfect
 
 TXST IEEE Student Branch, OPS Project #5.
 
